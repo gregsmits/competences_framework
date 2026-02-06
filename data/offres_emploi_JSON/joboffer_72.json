@@ -1,0 +1,10 @@
+{
+    "problem_family": "Ingénieur par apprentissage spécialité Informatique, réseaux et télécommunications",
+    "resources": [
+        "Mise en place d'outils de surveillance et de notation des CVE des codes sources de l'entreprise",
+        "Analyse de l'état de l'art, des normes (RED, CRA, NIS2…) et des recommandations CIS pour l'établissement d'une bibliographie de référence",
+        "Établissement d'un référentiel de bonnes pratiques et de recommandations de cybersécurité pour nos équipements de communication.",
+        "Evolutions et adaptations logicielles (embarqué et serveur) découlant de ce référentiel de bonnes pratiques à coordonner avec nos chefs de projets",
+        "Formation et acculturation des équipes de développement à la cybersécurité"
+    ]
+}

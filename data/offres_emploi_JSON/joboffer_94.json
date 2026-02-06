@@ -1,0 +1,20 @@
+{
+    "problem_family": "Apprenti (e) ingénieur (e) – Développement logiciel et Systèmes embarqués",
+    "resources": [
+        "Maîtrise du langage C et d'un RTOS.",
+        "Esprit analytique, rigueur et goût du travail en équipe.",
+        "Autonomie, curiosité , et sens de l'initiative.",
+        "Rédaction du cahier des charges",
+        "Analyser les besoins fonctionnels et techniques pour la connexion de capteurs externes et la transmission BLE des données vers le produit principal.",
+        "Recherche et sélection matérielle",
+        "Identifier et évaluer des modules électroniques ou concevoir un design sur mesure répondant aux spécifications.",
+        "Développement firmware",
+        "Implémenter le firmware sur la carte choisie : gestion du BLE, acquisition de données, optimisation énergétique, RTOS.",
+        "Intégration et validation",
+        "Tester et valider l'ensemble hardware/firmware avec une variété de capteurs externes.",
+        "Collaboration produit",
+        "Participer aux revues de conception et rédiger la documentation technique : notes de version, guides utilisateurs, procédures de test.",
+        "Innovation & veille technologique",
+        "Proposer des améliorations fonctionnelles et techniques ; surveiller l'évolution des standards Bluetooth et des capteurs émergents."
+    ]
+}

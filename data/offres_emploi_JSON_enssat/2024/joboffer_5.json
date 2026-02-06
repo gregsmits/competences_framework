@@ -1,0 +1,17 @@
+{
+    "problem_family": "Ingénieur Logiciel Full Stack",
+    "resources": [
+        "Développement d'une application permettant d'identifier des personnes à partir de listes préétablies.",
+        "Conception global de l'application",
+        "Concevoir, manipuler et interroger des bases de données",
+        "Concevoir le code de 'back-end' et les API d'accès à ces données sous forme de webservices",
+        "Concevoir le code de 'front-end'",
+        "Intégrer les bonnes pratiques pour assurer la sécurité des produits conçus",
+        "Prendre en compte les contraintes réglementaires",
+        "Mise en production de la solution",
+        "Prendre en compte les demandes des clients, définir ses besoins",
+        "Gérer et planifier un projet",
+        "Former les équipes supports",
+        "Aider l’équipe commerciale dans les phases d’avant-vente si besoin"
+    ]
+}

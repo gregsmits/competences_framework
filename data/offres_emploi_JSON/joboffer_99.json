@@ -1,0 +1,12 @@
+{
+    "problem_family": "Apprenti(e) Ingénieur en Cybersécurité F/H",
+    "resources": [
+        "Étudiez les différents guides établis par les entités étatiques pour garantir la cybersécurité des OS générés;",
+        "Reprenez et industrialisez certains travaux déjà réalisés en interne afin de permettre la création d'un outil de génération utilisable sur l'ensemble des nouveaux systèmes;",
+        "Définissez et implémentez les fonctionnalités de sécurité supplémentaires jugées nécessaires en regard des guides étudiés;",
+        "Rédigez la documentation technique à chaque étape du projet et un manuel d'utilisation de la solution.",
+        "Des connaissances sur les GPO (Group Policy Object) et/ou les firewalls seraient un plus.",
+        "Des premières connaissances sur les scripts Powershell.",
+        "Vous êtes familiers des systèmes d'exploitation Windows et leurs mécanismes d'installation."
+    ]
+}

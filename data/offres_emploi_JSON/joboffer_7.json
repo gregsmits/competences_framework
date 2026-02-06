@@ -1,0 +1,10 @@
+{
+    "problem_family": "Alternance - Ingénieur support et expertise Wi-Fi",
+    "resources": [
+        "Investiguer des cas terrains en tant que support de niveau 4 sur les problématiques Wi-Fi dans nos Livebox et Répéteurs.",
+        "Mettre en place des outils pour améliorer le diagnostic des problèmes des clients en s'aidant de la data issue des sondes déployées dans nos équipements du réseau domestique des clients.",
+        "Créer/améliorer les pré-diagnostic qu'on affiche aux clients, pour qu'ils s'auto-dépannent, sur la base des cas terrains traités.",
+        "Réaliser des tests en lab pour s'assurer du bon fonctionnement de certains services/fonctionnalités.",
+        "Travailler avec son encadrant pour l'amélioration du Smart Wi-Fi (détecter des failles de fonctionnement, définir les fonctionnalités essentiels vs accessoires, définir des profils type d'usage)."
+    ]
+}

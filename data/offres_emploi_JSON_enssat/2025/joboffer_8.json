@@ -1,0 +1,9 @@
+{
+    "problem_family": "Alternance Développeur/euse DevOps pour l'automatisation des réseaux",
+    "resources": [
+        "Automatiser les tests vérifiant le bon fonctionnement d'une fonction réseau: en coopération avec les experts en intégration r éseau de l'équipe, vous contribuerez au développement de librairies python pour scripter les plans de tests en robot framework.",
+        "Déployer ces tests sur les plates-formes de tests des filiales d'Orange: vous développuez des pipelines CICD à partir de GitLab automatisant la mise à disposition des tests automatisés produits par Innov/Net dans le groupe",
+        "Contribuer au développement d'un logiciel d'automatisation des déploiements des nouvelles versions de fonctions réseau",
+        "Les développements logiciels mettront en œuvre les bonnes pratiques de développements de sorte à faciliter mutualisation et réutilisation de code ainsi que pour garantir une bonne maintenabilité du code"
+    ]
+}

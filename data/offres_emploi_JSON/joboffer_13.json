@@ -1,0 +1,12 @@
+{
+    "problem_family": "Chargé de projet production réseau",
+    "resources": [
+        "Capacity planning, réingénierie réseau, désaturation infrastructure backbone routeurs OLT",
+        "Fibre optique télétransmission WDM",
+        "Pilotage de projet",
+        "Connaissance sur le domaine IP / OSI Réseau / maintenance infra reseau",
+        "Maintien des liens entre les NRO via les technos WDM en augmentant la bande passante pour éviter la saturation.",
+        "Migrations techniques des clients sur différents équipements présents sur le réseau Altitude à un autre afin d'optimiser l'utilisation des équipements actifs.",
+        "Câblage d'un lien de sécurisation ainsi que la mise en place de l'interconnexion entre deux NRO (création de conf, Vlan et IP) afin d'éviter les pannes."
+    ]
+}

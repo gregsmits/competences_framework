@@ -1,0 +1,13 @@
+{
+    "problem_family": "Concepteur d'applications web",
+    "resources": [
+        "Etude du système existant et identification des points à corriger/améliorer",
+        "Refonte du système autonome en client léger",
+        "Mutualisation de fonctions entre le client léger et l'application web 'publique'",
+        "Rédaction de la documentation technique",
+        "La mise en place d'un système de paramétrage souple pour répondre aux besoins spécifiques de chaque abattoir",
+        "La gestion du déploiement et la politique de mise à jour",
+        "La proposition d'architectures techniques sécurisés et évolutives ('secure by design')",
+        "Développement web, Conteneurisation SQL, Administration système"
+    ]
+}

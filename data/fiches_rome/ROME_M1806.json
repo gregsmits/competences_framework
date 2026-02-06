@@ -1,0 +1,265 @@
+{
+    "source":"France Travail",
+    "label":"M1806 CONSULTANT FONCTIONNEL / CONSULTANTE FONCTIONNELLE DES SYSTÈMES D'INFORMATION",
+    "problems_family" : [
+        "Architecte fonctionnel / Architecte fonctionnelle de système d'information",
+        "Consultant / Consultante SaaS - Software as a Service",
+        "Assistant fonctionnel / Assistante fonctionnelle des systèmes d'information",
+        "Consultant / Consultante SI finance comptabilité",
+        "Business analyst",
+        "Consultant / Consultante SI Gestion de la Relation Client",
+        "Consultant / Consultante en accessibilité numérique",
+        "Consultant / Consultante SIRH ressources humaines",
+        "Consultant / Consultante ERP - Enterprise Resource Planning",
+        "Consultant fonctionnel / Consultante fonctionnelle de progiciel",
+        "Consultant / Consultante IT",
+        "Expert / Experte métier système d'information"
+    ],
+    "resources": [
+        {
+            "resource": "Définir la stratégie des systèmes d'informations",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Concevoir et gérer un projet",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Analyser les besoins fonctionnels des utilisateurs",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Communiquer efficacement avec l'équipe et les clients",
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences"
+        },
+        {
+            "resource": "Analyser des données pour soutenir des décisions stratégiques",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Réaliser des études d'urbanisme des systèmes d'information de l'entreprise",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Assurer la conformité des systèmes avec les normes en vigueur",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Planifier les mises à jour des systèmes d'information",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Vérifier la conformité de fonctionnement et d'utilisation des systèmes d'information",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Elaborer et suivre des tableaux de bord des incidents sécurité",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Etre en capacité de travailler en mode projets",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Optimiser la performance de l'organisation",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Optimiser l'utilisation des ressources informatiques",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Proposer des améliorations pour les systèmes existants",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Assurer le support technique de niveau avancé",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Accompagner et former un client sur l'applicatif métier ou l'interface utilisateur",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Assurer une communication claire et efficace avec l'équipe",
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences"
+        },
+        {
+            "resource": "Préparer et animer une réunion, un groupe de travail, un atelier",
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences"
+        },
+        {
+            "resource": "Sensibiliser à l'importance de la transition écologique",
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences"
+        },
+        {
+            "resource": "Structurer, synthétiser des informations",
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences"
+        },
+        {
+            "resource": "Assurer la liaison entre les différents départements techniques",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "resource": "Mettre en oeuvre les actions de transformation nécessaires aux changements",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "resource": "Assurer la formation des utilisateurs sur les nouveaux outils",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "resource": "Analyser les besoins des utilisateurs pour la conception de systèmes",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Développer des stratégies pour l'intégration des systèmes",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Concevoir l'architecture d'un système, d'un réseau",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Déployer, intégrer un logiciel, un système d'informations, une application",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Identifier les opportunités d'automatisation des processus",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Tester un logiciel, un système d'informations, une application",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Elaborer une stratégie de résolution de problèmes",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Evaluer les risques SIC (système information et communication)",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Implémenter des solutions de sécurité informatique",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Avoir l'esprit d'équipe",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Faire preuve de rigueur et de précision",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Organiser son travail selon les priorités et les objectifs",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Etre force de proposition",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Intégration de systèmes d'information",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Progiciels de gestion intégrée d'entreprise (ERP)",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Optimisation des processus métier",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Développement de solutions informatiques",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Gestion de projets informatiques",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Gestion des bases de données",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Gestion des changements technologiques",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Intelligence artificielle",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Gestion des risques informatiques",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Sécurité des systèmes d'information",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Règlement Général européen sur la Protection des Données (RGPD)",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Documentation technique détaillée",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Modélisation informatique",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        }
+    ]
+}

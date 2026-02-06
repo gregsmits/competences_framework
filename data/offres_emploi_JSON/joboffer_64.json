@@ -1,0 +1,10 @@
+{
+    "problem_family": "Ingénieur Devops & Administrateur réseau",
+    "resources": [
+        "Données de santé, Santé / Hôpitaux, EDS, DevOps; Infrastructure & Réseaux; Cybersécurité; Cloud / IaC; Data Management",
+        "Bonne maîtrise de l’infrastructure physique, bonne maîtrise des environnements Linux et des réseaux IP (VPN, VLAN, Wi-Fi sécurisé), bases en scripting (Bash, Python) et en automatisation IaC (Ansible, Terraform)",
+        "Compréhension des enjeux cloud et cybersécurité, intérêt pour les environnements critiques (santé, haute disponibilité, sécurité)",
+        "Capacité à apprendre et à monter en responsabilité progressivement",
+        "Rigueur et fiabilité dans l’exécution, autonomie et sens de l’initiative, curiosité technique et envie de progresser"
+    ]
+}

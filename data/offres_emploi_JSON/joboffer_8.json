@@ -1,0 +1,12 @@
+{
+    "problem_family": "Analyste développeur Web",
+    "resources": [
+        "Développement Web, Industrie, Traçabilité, Base de données",
+        "Concevoir les programmes des outils digitaux en respectant les spécifications et les guides de développement",
+        "Mettre en place les environnements de tests pour les revues de code et les validations des fonctionnalités développées",
+        "Traiter les anomalies détectées en test et revue de code sur la base des demandes de modifications",
+        "Résoudre les problèmes remontés par les clients internes ou finaux",
+        "Apporter un support à l'équipe de déploiement",
+        "Réaliser/Modifier la documentation associée aux développements réalisés"
+    ]
+}

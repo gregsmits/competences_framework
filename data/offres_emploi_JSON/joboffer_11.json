@@ -1,0 +1,11 @@
+{
+    "problem_family": "Ingénieur par apprentissage spécialité Informatique, réseaux et télécommunications",
+    "resources": [
+        "Découvrir les méthodes et outils utilisés au sein de l’entreprise pour le développement logiciel : gitlab, to-be-continuous, docker",
+        "Appréhender le contexte d’entreprise",
+        "Comprendre le processus de Compliance opensource, permettant de s’assurer que les licences opensource utilisées dans les projets sont respectées.",
+        "Piloter une étude d’alternative open source à un logiciel propriétaire.",
+        "Etudier l’utilisation des LLM/RAG dans l’analyse de code afin de détecter des copyright et licences",
+        "Apprendre et rechercher l’information, développement logiciel, devops"
+    ]
+}

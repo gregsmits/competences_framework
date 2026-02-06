@@ -1,0 +1,18 @@
+{
+    "problem_family": "Ingénieur en développement informatique",
+    "resources": [
+        "Prise en main de l'environnement de développement (Docker, Git, Symfony, API Platform, DevExtreme).",
+        "Participation à la maintenance corrective et évolutive des applications existantes.",
+        "Réalisation de tests unitaires et fonctionnels.",
+        "Contribution à la documentation technique.",
+        "Suivi des tickets de support et résolution d'anomalies simples.",
+        "Conception et développement de nouvelles fonctionnalités en autonomie partielle.",
+        "Mise en œuvre de bonnes pratiques de développement (CI/CD, revues de code, tests automatisés).",
+        "Collaboration avec les métiers pour la formalisation des besoins.",
+        "Contribution à l'amélioration continue de l'architecture logicielle.",
+        "Pilotage de mini-projets ou de modules fonctionnels complets.",
+        "Veille technologique et proposition d'évolutions techniques (frameworks, outils, sécurité).",
+        "Encadrement ponctuel de nouveaux arrivants (stagiaires).",
+        "Participation à la définition de l'architecture logicielle et aux choix techniques stratégiques."
+    ]
+}

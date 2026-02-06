@@ -1,0 +1,15 @@
+{
+    "problem_family": "Ingénieur développement web fullstack",
+    "resources": [
+        "Obsolescence Electron (navigateur Web) : migration de l'Omnidispatch (IHM poste opérateur PRESCOM) vers une version récente d'Electron",
+        "Obsolescence du système d’authentification : migration vers le framework Symfony",
+        "Lecture d’un flux vidéo RTSP dans un navigateur web (HTML5): Etude de la conversion RTSP-WebRTC",
+        "Développement d'un simulateur de charge pour les différents connecteurs vers des applications externes : Etude de l’aide d’une IA",
+        "Angular",
+        "Leaflet (Géolocalisation)",
+        "NodeJs",
+        "Adaptabilité",
+        "travail en équipe",
+        "autonomie"
+    ]
+}

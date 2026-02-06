@@ -1,0 +1,278 @@
+{
+    "source":"France Travail",
+    "label":"M1805 DÉVELOPPEUR / DÉVELOPPEUSE INFORMATIQUE",
+    "problems_family" : [
+        "Analyste développeur / Analyste développeuse",
+        "Informaticien / Informaticienne de développement",
+        "Analyste-programmeur / Analyste-programmeuse gestion informatique",
+        "Programmeur / Programmeuse d'études",
+        "Analyste-programmeur / Analyste-programmeuse informatique",
+        "Programmeur / Programmeuse de maintenance informatique",
+        "Analyste-programmeur / Analyste-programmeuse scientifique informatique",
+        "Programmeur / Programmeuse informatique",
+        "Développeur / Développeuse de sécurité des systèmes d'information",
+        "Programmeur / Programmeuse logiciel de base informatique",
+        "Développeur / Développeuse IOT",
+        "Programmeur industriel / Programmeuse industrielle",
+        "Développeur / Développeuse systèmes embarqués",
+        "Technicien / Technicienne programmation",
+        "Informaticien / Informaticienne"
+    ],
+    "resources": [
+        {
+            "resource": "Analyser les besoins informatiques",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Réaliser des études et développements informatiques",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Développer une application en lien avec une base de données",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Concevoir une application web",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Coder",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Concevoir et maintenir un système de cybersécurité",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Optimiser les processus de qualité pour assurer la fiabilité des logiciels",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Traiter les retours utilisateurs pour améliorer les systèmes",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Documenter les procédures techniques pour les utilisateurs",
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences"
+        },
+        {
+            "resource": "Respecter les normes de sécurité informatique dans le développement",
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences"
+        },
+        {
+            "resource": "Tester un logiciel, un système d'informations, une application",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Intégrer des outils IA/Data Science",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Gérer les versions de logiciels et leurs mises à jour",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Maintenir à jour la documentation technique et les manuels d'utilisation",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Piloter les fonctionnalités des équipements et systèmes de sécurité informatique",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Collaborer avec les développeurs pour améliorer la qualité du logiciel",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Surveiller les tendances du marché digital",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Superviser, coordonner les réalisations ou développements informatiques (collaborateurs, sous-traitants)",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Concevoir et mettre en oeuvre une stratégie digitale",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Promouvoir la collaboration entre les développeurs et les opérateurs pour une meilleure intégration",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Argumenter sur le choix des technologies à adopter",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Vérifier la conformité d'une réalisation avec un cahier des charges",
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire"
+        },
+        {
+            "resource": "Faire preuve d'autonomie",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Faire preuve de rigueur et de précision",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Faire preuve de créativité, d'inventivité",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Langages de programmation informatique",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Gestion de bases de données NoSQL",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Programmation logicielle",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Développement de logiciels embarqués",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Systèmes d'exploitation informatique",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "AutoItScript",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "HTML",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Java",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Programmation en Python",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Script Shell",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Anglais technique",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Application web",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Architecture web",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Sécurité des applications web",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Gestion de versions de logiciels de jeux",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Développement d'applications mobiles",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Gestion de projet informatique",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Intelligence artificielle",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Réseaux informatiques et télécoms",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Méthode AGILE",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Modélisation informatique",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Règles de sécurité Informatique et Télécoms",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Conception d'interfaces utilisateur (UI)",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Produits multimédias",
+            "type": "Savoirs",
+            "category": "Produits, outils et matières"
+        },
+        {
+            "resource": "Intégration continue et déploiement continu (CI/CD)",
+            "type": "Savoirs",
+            "category": "Techniques professionnelles"
+        },
+        {
+            "resource": "Optimisation des performances des applications",
+            "type": "Savoirs",
+            "category": "Techniques professionnelles"
+        }
+    ]
+}

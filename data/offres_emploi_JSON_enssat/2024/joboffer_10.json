@@ -1,0 +1,13 @@
+{
+    "problem_family": "Apprentissage Développement Logiciel AI/ML - LLM NOKIA",
+    "resources": [
+        "de développer un \"chat bot\" pour guider les clients dans la résolution de leur problème sur la base d’un ensemble de documents;",
+        "proposer des solutions d’intelligence artificielle et du « machine learning » dans le cadre d’une nouvelle génération d’un outil de simulation;",
+        "développer un \"Proof of Concept\" sur les solutions proposées.",
+        "IA/ML",
+        "Modèle de langage LLM",
+        "Langages: Python / JSON / C / C++",
+        "Autres outils: JIRA",
+        "Langue : Anglais"
+    ]
+}

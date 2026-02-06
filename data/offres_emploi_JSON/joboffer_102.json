@@ -1,0 +1,11 @@
+{
+    "problem_family": "Alternance - Ingénieur Logiciel - H/F",
+    "resources": [
+        "Intégrer dans notre environnement des outils d’analyses pour identifier plus facilement les problèmes rencontrés en phase de tests ou à bord.",
+        "Tester les différentes fonctionnalités du module en environnement Sous-Marin",
+        "Evaluer la quantité d’informations remontée et donc la capacité à avoir pour les stocker",
+        "Traiter des données remontées en vue de les blanchir",
+        "Évaluer des risques de régressions fonctionnelles, de performance et de robustesse de l’intégration du module",
+        "Faire évoluer les outils d’analyses en cours"
+    ]
+}

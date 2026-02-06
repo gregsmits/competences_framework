@@ -1,0 +1,12 @@
+{
+    "problem_family": "Alternance Analyste Cyber SOC H/F",
+    "resources": [
+        "Surveiller et traiter les événements et alertes de sécurité.",
+        "Analyser les données et mener des investigations avancées sur les incidents de sécurité.",
+        "Réaliser des actions de remédiation pour bloquer les attaquants.",
+        "Assurer un suivi régulier de l’activité.",
+        "Participer à l’amélioration continue des systèmes de détection en déployant de nouvelles règles ou en optimisant le périmètre existant.",
+        "Contribuer à des projets d’automatisation et de mise en place de nouveaux outils (création d’une base de connaissances axée sur la remédiation, travail sur les frameworks MITRE ATT&CK et MITRE D3FEND).",
+        "Rédiger des fiches réflexes pour analyser et qualifier les alertes de sécurité."
+    ]
+}

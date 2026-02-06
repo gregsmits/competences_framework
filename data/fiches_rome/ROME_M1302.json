@@ -1,0 +1,384 @@
+{
+    "source":"France Travail",
+    "label":"M1302 RESPONSABLE DE PETITE OU MOYENNE ENTREPRISE -PME-",
+    "problems_family": [
+        "Chef / Cheffe d'agence commerciale",
+        "Chef / Cheffe d'agence de voyages",
+        "Directeur / Directrice de centre de profit",
+        "Directeur adjoint / Directrice adjointe de PME-PMI",
+        "Dirigeant / Dirigeante de Société Coopérative Ouvrière de Production (SCOP)",
+        "Responsable d'agence commerciale",
+        "Responsable d'agence de placement",
+        "Responsable d'agence de travail temporaire",
+        "Responsable d'entreprise d'insertion par l'économie",
+        "Responsable d'entreprise de nettoyage",
+        "Responsable de centre de profit"
+    ],
+    "resources": [
+        {
+            "resource": "Piloter la performance et la rentabilité d'une activité ou d'un projet",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Développer des stratégies de croissance",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Développer et fidéliser la relation client",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Gérer les ressources humaines",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "resource": "Superviser et gérer les moyens organisationnels, techniques, humains, financiers, logistiques et de communication pour réaliser les objectifs",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "resource": "Animer, coordonner une équipe",
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire"
+        },
+        {
+            "resource": "Elaborer, suivre et piloter un budget",
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire"
+        },
+        {
+            "resource": "Assurer la gestion administrative d'une activité",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Mettre en œuvre une démarche qualité",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Gérer les approvisionnements et les stocks",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Organiser et optimiser les flux logistiques",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Analyser le marché et la concurrence",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Elaborer et mettre en œuvre un plan marketing",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Concevoir et piloter des actions commerciales",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Négocier des accords commerciaux",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Suivre et analyser les indicateurs de performance commerciale",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Élaborer des tableaux de bord de gestion",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Réaliser des analyses financières",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Gérer la trésorerie",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Évaluer les risques financiers et proposer des solutions adaptées",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Analyser la qualité d'un service",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Déterminer des objectifs de performance, suivre les réalisations et identifier les actions correctives",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Optimiser les processus opérationnels",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Promouvoir la responsabilité sociale de l'entreprise",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Développer des partenariats avec des acteurs locaux",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Mettre en oeuvre des actions commerciales et promotionnelles",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Analyser les besoins de l'entreprise en formation, en recrutement et en mobilité professionnelle",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "resource": "Concevoir et mettre en oeuvre un plan de développement des compétences",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "resource": "Accompagner le changement auprès des collaborateurs",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "resource": "Assurer les relations avec les différentes instances du personnel",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "resource": "Planifier la gestion des locaux et des équipements",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "resource": "Encourager l'innovation au sein des équipes",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "resource": "Favoriser et mesurer la performance d'une équipe",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences",
+            "resource": "Préparer et animer une réunion, un groupe de travail, un atelier"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences",
+            "resource": "Relayer de l'information"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences",
+            "resource": "Communiquer les résultats aux parties prenantes"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences",
+            "resource": "Développer et gérer des relations interpersonnelles"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire",
+            "resource": "Analyser les performances de l'entreprise"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire",
+            "resource": "Evaluer des risques financiers"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire",
+            "resource": "Réaliser des opérations comptables"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire",
+            "resource": "Gérer les relations avec les clients et fournisseurs"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire",
+            "resource": "Optimiser la gestion des ressources financières"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire",
+            "resource": "Négocier des contrats avec des partenaires"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire",
+            "resource": "Rédiger des rapports d'activité"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire",
+            "resource": "Définir et déployer une politique de développement durable"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies",
+            "resource": "Renseigner et tenir à jour des outils de suivi de l'activité (tableaux de bord deproduction, relevés d'incidents, qualité...)"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies",
+            "resource": "Analyser les données d'activité pour la prendre des décisions"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies",
+            "resource": "Faire preuve d'appétence pour l’utilisation de logiciels numériques et de nouvellestechnologies Transition numérique"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies",
+            "resource": "Assurer une veille concurrentielle active"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies",
+            "resource": "Proposer des innovations dans les produits ou services"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies",
+            "resource": "Faciliter la communication interne et externe"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies",
+            "resource": "Mettre en oeuvre des actions de communication Transition numérique"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique",
+            "resource": "Superviser les opérations quotidiennes"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique",
+            "resource": "Gérer les crises et les imprévus"
+        },
+        {
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique",
+            "resource": "Concevoir des stratégies pour améliorer la qualité des services"
+        },
+        {
+            "resource": "Faire preuve de leadership",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Etre force de proposition",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Avoir l'esprit d'équipe",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Management stratégique",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Comptabilité générale",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Gestion des ressources humaines",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Economie sociale",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Développement durable",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Stratégies de développement d'entreprise",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Techniques de négociation avancées",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Développement de partenariats stratégiques",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Maîtrise des outils informatiques et numériques métier",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Prospection commerciale",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Législation sociale",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Outils de planification",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Techniques de communication",
+            "type": "Savoirs",
+            "category": "Techniques professionnelles"
+        },
+        {
+            "resource": "Techniques commerciales",
+            "type": "Savoirs",
+            "category": "Techniques professionnelles"
+        },
+        {
+            "resource": "Techniques de motivation d'équipe",
+            "type": "Savoirs",
+            "category": "Techniques professionnelles"
+        }
+    ]
+}

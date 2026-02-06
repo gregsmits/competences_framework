@@ -1,0 +1,17 @@
+{
+    "problem_family": "SRE (Site Reliability Engineer)",
+    "resources": [
+        "Surveillance des systèmes et des services",
+        "Automatisation des tâches répétitives",
+        "Gestion des incidents",
+        "Infrastructure as Code (IaC)",
+        "Amélioration des pratiques de monitoring et d'observabilité",
+        "Optimisation des SLOs, SLIs et SLAs à grande échelle",
+        "Contribution stratégique à l'ingénierie du chaos",
+        "Optimisation des performances et gestion des ressources",
+        "Sécurité avancée de l'infrastructure",
+        "Formation et mentorat",
+        "Optimisation des coûts et gestion budgétaire",
+        "Projets d’optimisation et d’amélioration continue"
+    ]
+}

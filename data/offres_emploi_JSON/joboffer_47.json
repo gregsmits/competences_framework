@@ -1,0 +1,9 @@
+{
+    "problem_family": "Ingénieur par apprentissage spécialité Informatique, réseaux et télécommunications",
+    "resources": [
+        "Analyste programmeur pour création/amélioration d'environnement 'sandbox' Linux avec Packer, ansible, vagrant...",
+        "Ingénieur Sécurité système pour améliorer/simplifier la création de nos images OS & docker durcies",
+        "Ingénieur Sécurité et gouvernance pour faciliter les audits (NIS2, RGPD, ISO 27k, DORA) en travaillant sur de l'outillage DevSecOps...",
+        "Sécurité opérationnelle (DevSecOps, CI/CD, IA, hardening, scan & audits), environnement..."
+    ]
+}

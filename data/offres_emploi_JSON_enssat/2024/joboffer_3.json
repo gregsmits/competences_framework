@@ -1,0 +1,13 @@
+{
+    "problem_family": "Tuteur",
+    "resources": [
+        "Developing components in Rust language",
+        "Modeling treatments as a graph of logical components",
+        "Focus on performances for supervising terabit-level fluxes",
+        "Familiarity with context and software environment",
+        "Utilization of Gitlab, CI/CD chains for tests",
+        "Development of new components responding to specifications",
+        "Knowledge in functional programming (Rust, C/C++, JavaScript)",
+        "Preparation for a degree in computer science or telecommunications and networks"
+    ]
+}

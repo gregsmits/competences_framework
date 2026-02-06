@@ -1,0 +1,17 @@
+{
+    "problem_family": "Architecture et traitement des flux audiovisuels",
+    "resources": [
+        "Intégration d’API liées à l’écosystème audiovisuel (DRM, CDN, packagers, encodeurs…)",
+        "Participation au développement ou à la maintenance de microservices liés aux workflows vidéo",
+        "Rédaction de tests unitaires et documentation technique",
+        "Conception de modules logiciels ou d’évolutions de la chaîne de traitement (ex : ajout de formats vidéo, nouveaux types de packaging ou de sécurité)",
+        "Participation à des choix d’architecture technique dans un environnement cloud ou conteneurisé (Docker, Kubernetes, CI/CD)",
+        "Implémentation de pipelines d’intégration continue pour les outils développés",
+        "Prise en compte des contraintes de performance, résilience et scalabilité",
+        "Rédaction de spécifications techniques et fonctionnelles pour des évolutions de la plateforme (ex : ajout de nouvelles fonctionnalités, nouveaux profils vidéo, intégration de partenaires)",
+        "Analyse des besoins métier ou produit en collaboration avec les équipes fonctionnelles",
+        "Participation à la stratégie d’évolution des services ou à des projets transverses (qualité d’expérience, monitoring, transition cloud…)",
+        "Connaissance du développement logiciel (C++/NodeJs)",
+        "Capacité d’analyse, autonomie et esprit d’équipe"
+    ]
+}

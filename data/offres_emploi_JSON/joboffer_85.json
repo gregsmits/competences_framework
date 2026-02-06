@@ -1,0 +1,14 @@
+{
+    "problem_family": "Administrateur réseau et cyber sécurité",
+    "resources": [
+        "Administration et gestion des réseaux (VLAN, routage, règles de sécurité, services non autorisés, …)",
+        "Surveillance journalière avec analyse et interprétation des remontées d'alertes",
+        "Gestion des demandes d'ajout/suppression d'équipements et de logiciels (automatismes, robot, IHM, ...)",
+        "Maintien du dossier réseau",
+        "Maintien de la cartographie IP à jour pour le site (périmètre OT)",
+        "Maintien en conformité des réseaux (sécurité des ports, adressage IP, mise à jour des firmwares, …)",
+        "Maintien en conformité de la Machine Virtuelle",
+        "Management des incidents",
+        "Cybersécurité (antivirus, sauvegarde, White Listing, …), mise à jour logiciels, …"
+    ]
+}

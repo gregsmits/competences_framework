@@ -1,0 +1,10 @@
+{
+    "problem_family": "Traitement de données issues d'infrastructures",
+    "resources": [
+        "Collecter, analyser et traiter des données issues du réseau Orange grâce à des techniques de machine learning.",
+        "Caractériser et améliorer le fonctionnement ou l'état de notre réseau.",
+        "Comprendre et décrire l'environnement.",
+        "Mettre en oeuvre des modèles de machine learning.",
+        "Proposer une application montrant l'intérêt de ces modèles."
+    ]
+}

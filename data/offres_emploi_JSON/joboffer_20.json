@@ -1,0 +1,12 @@
+{
+    "problem_family": "Ingénieur logiciel",
+    "resources": [
+        "Développement logiciel, 5G, stations de base",
+        "Protocoles de communication issus du 3GPP qui définissent le cœur des applications qui s'exécutent dans les stations de base 5G",
+        "Architecture du logiciel de la couche L2 selon la classification OSI",
+        "Connaissance en C++ avec les techniques de contrôle de la dette technique les plus innovantes dans un environnement d'intégration continue",
+        "Écriture de tests unitaires et de sous-composant des modules sur lesquels son équipe travaillera",
+        "Résolution de problèmes détectés par les équipes de validation internes et des clients de Nokia",
+        "Spécification et découpage des fonctionnalités assignées à son équipe"
+    ]
+}

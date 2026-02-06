@@ -1,0 +1,13 @@
+{
+    "problem_family": "Apprenti Ingénieur R&D",
+    "resources": [
+        "Développement Web, React, NodeJS, ApiRTC, WebRTC , PHP, Laravel, Mysql, NoSQL, Frontend, Backend , CI/CD , Gitlab, Jira, Figma",
+        "Connaissance des technologies Web (Frontend et/ou Backend)",
+        "Connaissance des outils de développement (outils de build, déploiement, tests) et de contrôle de version (Git ou similaire)",
+        "Capacité à se former et faire de la veille sur son domaine",
+        "Bonne communication (entre les membres de l'équipe et avec les autres équipes)",
+        "Adaptabilité (en fonction des missions proposées qui peuvent concernées des technologies/langages différents)",
+        "Être force de proposition afin de pouvoir proposer des améliorations du code, du process, de notre organisation",
+        "Rigueur afin d'assurer le respect du process et de garantir la qualité du code et du travail"
+    ]
+}

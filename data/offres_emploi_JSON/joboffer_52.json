@@ -1,0 +1,21 @@
+{
+    "problem_family": "Administrateur Réseau",
+    "resources": [
+        "Brassage, câblage, fibrage (L1)",
+        "Gestion de commutateur HP/Aruba (L2)",
+        "Installation et déploiement de commutateurs dans les locaux techniques informatiques",
+        "Configuration de ports (access, trunks)",
+        "Créations de VLANs",
+        "Stacking (IRF)",
+        "Configuration et compréhension de différentes configurations (STP, PrivateVlan, LACP, etc.)",
+        "Définition de plan d'adressage",
+        "Gestion de routeur (Cisco, Juniper) (L3)",
+        "La création et la gestion des VRF/Instance de routage",
+        "Routages dynamiques (OSPF, BGP) et statiques",
+        "Créations de passerelles",
+        "Rigueur et organisation",
+        "Esprit d'équipe",
+        "Niveau d’anglais technique pour la lecture de documentation.",
+        "Curiosité et autonomie"
+    ]
+}

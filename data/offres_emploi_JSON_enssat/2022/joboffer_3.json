@@ -1,0 +1,29 @@
+{
+    "problem_family": "DÉVELOPPEUR FULL STACK",
+    "resources": [
+        "ANALYSER un cahier des charges, communiquer avec les clients, transformer les besoins exprimés en spécifications fonctionnelles, modéliser les spécifications fonctionnelles en spécifications techniques, établir les diagrammes de comportement / (diagrammes d'utilisation, de séquence, d'activités, d'états, de communication).",
+        "ÉTABLIR les diagrammes de structure / (diagrammes d'objets, de classes). DÉFINIR un plan d'action. DÉFINIR un cycle de vie pour le projet.",
+        "IDENTIFIER les axes méthodologiques de développement (Nota: en fonction de la volatilité du projet / en fonction de l'expérience et du niveau du client).",
+        "DÉFINIR une stratégie de gestion des risques. DÉFINIR un plan de communication.",
+        "DÉFINIR la stabilité des spécifications fonctionnelles, identifier la volumétrie J/H (WBS / définir les coûts).",
+        "DÉFINIR un plan d'assurance qualité. DÉFINIR un plan de continuité.",
+        "GÉRER un portefeuille de projets.",
+        "LANGUAGES C#, JAVA, C++ , SQL, PYTHON.",
+        "SGBDR (& NoSQL) SQL SERVER, ORACLE, HBASE, MONGODB.",
+        "ETL TALEND, MICROSOFT SSIS, INTEGRATE.IO.",
+        "CONTAINERISATION & VIRTUALISATION DOCKER, KUBERNETES.",
+        "FRAMEWORKS DE DÉVELOPPEMENT ANGULAR, JQUERY , REACT NATIVE.",
+        "ENVIRO NMENTS INTÉGRÉS DE DÉVELOPPEMENT (IDE) VISUAL STUDIO , NETBEAN.",
+        "STREAMLINED CODE EDITOR ATOM, VISUAL STUDIO CODE, BRACKETS.",
+        "PLATEFORMES COLLABORATIVES GIT, GITALAB, SMATSHEET.",
+        "MÉTHODOLOGIE & CONCEPTION",
+        "TRAVAIL COLLABORATIF",
+        "PRIORISER LA RELATION CLIENT",
+        "PRIORISER LA COMMUNICATION AVEC LES ÉQUIPES",
+        "AUTONOME",
+        "STRUCTURÉE",
+        "CURIUSe",
+        "PASSIONNÉE",
+        "RIGOUREUSE"
+    ]
+}

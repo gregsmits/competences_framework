@@ -1,0 +1,129 @@
+{
+  "source":"France Compétences",
+  "label":"RNCP38637 Ingénieur diplômé de l'Ecole nationale supérieure Mines-Télécom Atlantique Bretagne-Pays de la Loire de l'Institut Mines-Télécom, spécialité réseaux et télécommunications",
+  "problems_family" :  [
+    "conception et développement logiciels",
+    "architecture et ingénierie des systèmes d'information",
+    "architecture et ingénierie des réseaux et cybersécurité",
+    "conception et intégration des systèmes de télécoms",
+    "gestion et conduite de projet"
+  ],
+   "resources": [
+        {
+            "resource": "Concevoir des applications informatiques en analysant des besoins d'un commanditaire et en mettant en œuvre les éléments technologiques ou des dispositifs expérimentaux dans des activités de recherche et de développement en mobilisant un large champs de sciences fondamentales et des éléments organisationnels",
+            "type": "Savoir-faire",
+            "category": "Élaborer un diagnostic d'un système d'information, des réseaux d'entreprise ou d'opérateurs ou d'une organisation sur une problématique spécifique"
+        },
+        {
+            "resource": "Communiquer et gérer l'information sur l'avancement du travail, l'organisation et les évolutions techniques en adoptant une conduite éthique et professionnelle avec ses différents interlocuteurs",
+            "type": "Savoir-faire",
+             "category": "Élaborer un diagnostic d'un système d'information, des réseaux d'entreprise ou d'opérateurs ou d'une organisation sur une problématique spécifique"
+        },
+        {
+            "resource": "Gérer des projets complexes dans une démarche qualité en étant attentif au bon fonctionnement des équipes, tant pour les contributeurs que les managers pour les mener à leur terme",
+            "type": "Savoir-faire",
+             "category": "Élaborer un diagnostic d'un système d'information, des réseaux d'entreprise ou d'opérateurs ou d'une organisation sur une problématique spécifique"
+        },
+        {
+            "resource": "Intégrer les enjeux de maintien en conditions opérationnelles en prenant en compte les protocoles et le paramétrage du système et/ou de l'organisation suite à une panne, cyber-attaque afin de répondre aux exigences du contexte",
+            "type": "Savoir-faire",
+             "category": "Élaborer un diagnostic d'un système d'information, des réseaux d'entreprise ou d'opérateurs ou d'une organisation sur une problématique spécifique"
+        },
+        {
+            "resource": "Réaliser des systèmes complexes en mobilisant les ressources scientifiques et techniques spécifiques et en intégrant la stratégie numérique de l'organisation et les contraintes globales en particulier les problématiques d'accessibilité numérique et de cycle de vie dans l'objectif de répondre à la demande du commanditaire et aux besoins de la société",
+            "type": "Savoir-faire",
+             "category": "Concevoir une solution répondant aux besoins dans le domaine informatique, réseaux et/ou systèmes"
+        },
+        {
+            "resource": "Innover et entreprendre dans les différentes dimensions du système d'information dans un contexte organisationnel complexe et incertain en s'appuyant sur le processus d'innovation de l'idée à son implémentation pour anticiper les évolutions technologiques et les contraintes de l'environnement",
+            "type": "Savoir-faire",
+             "category": "Concevoir une solution répondant aux besoins dans le domaine informatique, réseaux et/ou systèmes"
+        },
+        {
+          "resource": "Gérer des projets complexes dans une démarche qualité en étant attentif au bon fonctionnement des équipes, tant pour les contributeurs que les managers pour les mener à leur terme",
+          "type": "Savoir-faire",
+           "category": "Concevoir une solution répondant aux besoins dans le domaine informatique, réseaux et/ou systèmes"
+        },
+        {
+          "resource": "Communiquer et gérer l'information sur l'avancement du travail, l'organisation et les évolutions techniques en adoptant une conduite éthique et professionnelle avec ses différents interlocuteurs",
+          "type": "Savoir-faire",
+           "category": "Concevoir une solution répondant aux besoins dans le domaine informatique, réseaux et/ou systèmes"
+        },
+        {
+          "resource": "Intégrer les enjeux organisationnels, réglementaires, économiques, numériques, énergétiques et environnementaux, de responsabilité sociétale et de diversité en s'appuyant sur l'évolution des organisations et des systèmes dont il a la maîtrise afin de répondre aux exigences du contexte",
+          "type": "Savoir-faire",
+           "category": "Concevoir une solution répondant aux besoins dans le domaine informatique, réseaux et/ou systèmes"
+        },
+        {
+          
+          "resource": "S'auto-former et s'auto-évaluer tout au long de la vie professionnelle en prenant en compte les évolutions associées afin de s'adapter à l'environnement de son organisation et d'accompagner les changements des systèmes et des organisations",
+          "type": "Savoir-faire",
+           "category": "Concevoir une solution répondant aux besoins dans le domaine informatique, réseaux et/ou systèmes"
+        },
+        {
+          "resource": "Réaliser des systèmes complexes en mobilisant les ressources scientifiques et techniques spécifiques et en intégrant la stratégie numérique de l'organisation et les contraintes globales en particulier les problématiques d'accessibilité numérique et de cycle de vie dans l'objectif de répondre à la demande du commanditaire et aux besoins de la société",
+          "type": "Savoir-faire",
+           "category": "Produire un environnement numérique conforme aux exigences sociétales, réglementaires et sécuritaires adaptables aux évolutions du secteur et accompagner au changement"
+        },
+        {
+          "resource": "Intégrer les enjeux de maintien en conditions opérationnelles en prenant en compte les protocoles et le paramétrage du système et/ou de l'organisation suite à une panne, cyber-attaque afin de répondre aux exigences du contexte",
+          "type": "Savoir-faire",
+           "category": "Produire un environnement numérique conforme aux exigences sociétales, réglementaires et sécuritaires adaptables aux évolutions du secteur et accompagner au changement"
+        },
+        {
+          "resource": "Innover et entreprendre dans les différentes dimensions du système d'information dans un contexte organisationnel complexe et incertain en s'appuyant sur le processus d'innovation de l'idée à son implémentation pour anticiper les évolutions technologiques et les contraintes de l'environnement",
+          "type": "Savoir-faire",
+           "category": "Produire un environnement numérique conforme aux exigences sociétales, réglementaires et sécuritaires adaptables aux évolutions du secteur et accompagner au changement"
+        },
+        {
+          "resource": "Communiquer et gérer l'information sur l'avancement du travail, l'organisation et les évolutions techniques en adoptant une conduite éthique et professionnelle avec ses différents interlocuteurs",
+          "type": "Savoir-faire",
+           "category": "Produire un environnement numérique conforme aux exigences sociétales, réglementaires et sécuritaires adaptables aux évolutions du secteur et accompagner au changement"
+        },
+        {         
+          "resource": "Animer et gérer une équipe pluridisciplinaires en différents modes de management en respectant les diversités de chaque collaborateur dans l'objectif de favoriser leur engagement et de renforcer la productivité et leur bien-être au travail et de respecter les enjeux de sécurité et de santé au travail",
+          "type": "Savoir-faire",
+           "category": "Produire un environnement numérique conforme aux exigences sociétales, réglementaires et sécuritaires adaptables aux évolutions du secteur et accompagner au changement"
+        },
+        {
+          "resource": "Intégrer les enjeux organisationnels, réglementaires, économiques, numériques, énergétiques et environnementaux, de responsabilité sociétale et de diversité en s'appuyant sur l'évolution des organisations et des systèmes dont il a la maîtrise afin de répondre aux exigences du contexte",
+          "type": "Savoir-faire",
+           "category": "Produire un environnement numérique conforme aux exigences sociétales, réglementaires et sécuritaires adaptables aux évolutions du secteur et accompagner au changement"
+        },
+        {        
+          "resource": "S'auto-former et s'auto-évaluer tout au long de la vie professionnelle en prenant en compte les évolutions associées afin de s'adapter à l'environnement de son organisation et d'accompagner les changements des systèmes et des organisations",
+          "type": "Savoir-faire",
+            "category": "Produire un environnement numérique conforme aux exigences sociétales, réglementaires et sécuritaires adaptables aux évolutions du secteur et accompagner au changement"
+        },
+        {
+          "resource": "Gérer des projets complexes dans une démarche qualité en étant attentif au bon fonctionnement des équipes, tant pour les contributeurs que les managers pour les mener à leur terme",
+          "type": "Savoir-faire",
+          "category": "Piloter un système d'information, des réseaux d'entreprise ou d'opérateurs ou une organisation dans une optique de maintenance, d'amélioration de la qualité et de la performance"
+        },
+        {
+          "resource": "Animer et gérer une équipe pluridisciplinaires en différents modes de management en respectant les diversités de chaque collaborateur dans l'objectif de favoriser leur engagement et de renforcer la productivité et leur bien-être au travail et de respecter les enjeux de sécurité et de santé au travail",
+          "type": "Savoir-faire",
+          "category": "Piloter un système d'information, des réseaux d'entreprise ou d'opérateurs ou une organisation dans une optique de maintenance, d'amélioration de la qualité et de la performance"
+        },
+        {
+          "resource": "Communiquer et gérer l'information sur l'avancement du travail, l'organisation et les évolutions techniques en adoptant une conduite éthique et professionnelle avec ses différents interlocuteurs",
+          "type": "Savoir-faire",
+          "category": "Piloter un système d'information, des réseaux d'entreprise ou d'opérateurs ou une organisation dans une optique de maintenance, d'amélioration de la qualité et de la performance"
+        },
+        {
+          "resource": "Intégrer les enjeux organisationnels, réglementaires, économiques, numériques, énergétiques et environnementaux, de responsabilité sociétale et de diversité en s'appuyant sur l'évolution des organisations et des systèmes dont il a la maîtrise afin de répondre aux exigences du contexte",
+          "type": "Savoir-faire",
+          "category": "Piloter un système d'information, des réseaux d'entreprise ou d'opérateurs ou une organisation dans une optique de maintenance, d'amélioration de la qualité et de la performance"
+        },
+        {
+          "resource": "S'auto-former et s'auto-évaluer tout au long de la vie professionnelle en prenant en compte les évolutions associées afin de s'adapter à l'environnement de son organisation et d'accompagner les changements des systèmes et des organisations",
+          "type": "Savoir-faire",
+          "category": "Piloter un système d'information, des réseaux d'entreprise ou d'opérateurs ou une organisation dans une optique de maintenance, d'amélioration de la qualité et de la performance"
+        },
+        {
+          "resource": "Coopérer avec les acteurs de l'organisation en s'engageant au sein de l'équipe, suscitant l'adhésion de son environnement, clarifiant les points de divergence, donnant une orientation afin d'analyser les dysfonctionnements et de prendre les décisions nécessaires à l'alignement de l'organisation avec les objectifs",
+          "type": "Savoir-faire",
+          "category": "Piloter un système d'information, des réseaux d'entreprise ou d'opérateurs ou une organisation dans une optique de maintenance, d'amélioration de la qualité et de la performance"
+        }
+    ]
+}

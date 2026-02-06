@@ -1,0 +1,278 @@
+{
+    "source":"France Travail",
+    "label":"M1802 Expert / Experte Systèmes et Réseaux Informatiques",
+    "problems_family" : [
+        "Analyste informatique",
+        "Expert / Experte réseaux et télécoms",
+        "Analyste réseau",
+        "Expert / Experte sharepoint",
+        "Consultant / Consultante informatique",
+        "Expert / Experte système d'exploitation",
+        "Consultant / Consultante réseaux informatiques",
+        "Expert / Experte système et réseaux",
+        "Expert / Experte réseau informatique",
+        "Expert / Experte virtualisation"
+    ],
+    "resources": [
+        {
+            "resource": "Concevoir un logiciel, un système d'informations, une application",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Procéder aux phases de tests et de recettes des applications développées",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Déployer, intégrer un logiciel, un système d'informations, une application",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Réaliser une veille technique ou technologique pour anticiper les évolutions",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Evaluer les nouvelles technologies réseau",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Evaluer, prévenir, et gérer les risques et la sécurité",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Contrôler la conformité des installations",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Recueillir et analyser les besoins client",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Conseiller sur les meilleures pratiques IT",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Elaborer des stratégies de récupération après sinistre",
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire"
+        },
+        {
+            "resource": "Rédiger un cahier des charges, des spécifications techniques",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Paramétrer un logiciel métier et l'interfacer à d'autres applicatifs",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Intégrer des outils IA/Data Science",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Gérer des données massives",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Optimiser les flux de données",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Diagnostiquer des dysfonctionnements sur des installations de réseau",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Mener un processus de test en cybersécurité",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Surveiller la sécurité des systèmes et réseaux",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Développer des stratégies de mitigation des risques",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Résoudre les problèmes de connectivité",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Analyser les performances système régulièrement",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Apporter une assistance technique aux équipes",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Etablir des rapports de performance",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Gérer les projets d'infrastructure IT",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Concevoir et gérer un projet",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Négocier avec les prestataires externes",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Former aux technologies de l'information et de la communication",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "resource": "Assurer la liaison avec les fournisseurs de services",
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire"
+        },
+        {
+            "resource": "Suivre les évolutions réglementaires",
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences"
+        },
+        {
+            "resource": "Structurer, synthétiser des informations",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Documenter les procédures techniques",
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences"
+        },
+        {
+            "resource": "Evaluer le résultat de ses actions",
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences"
+        },
+        {
+            "resource": "Etre force de proposition",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Faire preuve d'autonomie",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Faire preuve de leadership",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Intelligence artificielle",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Systèmes d'exploitation informatique",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Gestion de la capacité réseau",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Administration de pare-feu",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Virtualisation de réseau",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Architecture réseau",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Réseaux informatiques et télécoms",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Animation d'instances agiles (mêlée, démonstration, rétrospective, …)",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Méthodes d'analyse (systémique, fonctionnelle, de risques, ...)",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Modélisation informatique",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Procédures de tests",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Droit du numérique",
+            "type": "Savoirs",
+            "category": "    Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Normes et standards d'exploitation",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Règlement Général européen sur la Protection des Données (RGPD)",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Produits multimédias",
+            "type": "Savoirs",
+            "category": "Produits, outils et matières"
+        },
+        {
+            "resource": "Gestion des accès réseau",
+            "type": "Savoirs",
+            "category": "Techniques professionnelles"
+        },
+        {
+            "resource": "Détection d'intrusions réseau",
+            "type": "Savoirs",
+            "category": "Techniques professionnelles"
+        }
+    ]
+}

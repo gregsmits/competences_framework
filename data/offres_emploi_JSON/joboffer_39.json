@@ -1,0 +1,9 @@
+{
+    "problem_family": "Déploiement et amélioration continue du banc de production",
+    "resources": [
+        "Mise en place et optimisation d'un banc de production destiné à automatiser la configuration des routeurs 'prêts à connecter'.",
+        "Réduire les temps de déploiement et minimiser les erreurs humaines lors de la configuration des équipements réseau.",
+        "Des ajustements continus sont apportés afin de fiabiliser le processus et améliorer la performance globale du banc.",
+        "Python, bash, mqtt, automatisation, réseaux, linux"
+    ]
+}

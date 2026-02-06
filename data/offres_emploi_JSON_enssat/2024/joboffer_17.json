@@ -1,0 +1,15 @@
+{
+    "problem_family": "Ingénieur Logiciel F/H",
+    "resources": [
+        "Réalisation de nouveaux services enrichissant l'offre Serverless interne Orange (Webcom) :",
+        "- Web Hosting : hébergement Serverless de site web (poursuite d'un prototype existant)",
+        "- Remote config : Service cloud de configuration automatique d’applications mobile",
+        "- Prototypage de l’intégration de FaaS (Functions As A Service) avec Webcom (Techno Knative)",
+        "Etc… + Support (best effort) sur les Ethertools (outils collaboratifs d’édition de documents)",
+        "Développement du portail permettant aux clients de l'application de publier en quelques clic leur application sans avoir à se soucier des problèmes d'infrastructure, (dev en javascript (Vue JS) / Git / Méthode Agile)",
+        "Développement du Backend associé pour stocker dans Webcom les éléments du site que le client veut publier. Utilisation de Webcom (Backend As A Service) pour le stockage des données.",
+        "- Connaissances cloud",
+        "- Chaine de développement/déploiement continu (CI/CD)",
+        "Communication (organisation de réunions)"
+    ]
+}

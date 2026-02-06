@@ -1,0 +1,14 @@
+{
+    "problem_family": "ALT-Configuration dynamique d'interactions multimodales dans différents contextes",
+    "resources": [
+        "Concevoir, construire et fournir des services de divertissement et d'immersion pour tous les clients d'Orange avec une expérience utilisateur optimale.",
+        "Utiliser des langages tels que Python, Javascript (ES6) ou Go,",
+        "Implémenter sur des plateformes telles que Node.JS,",
+        "Utiliser divers outils comme par exemple une base de données NoSQL,",
+        "Manipuler des IoTs,",
+        "Interfacer son code avec une plateforme permettant la mise en oeuvre de 'jumeaux numériques'",
+        "Réalisation de serveurs 'backend' ",
+        "Étudier et concevoir un modèle scientifique et des principes à même de permettre des interactions complexes et multimodales entre des utilisateurs et un système",
+        "Concevoir et implémenter des mécanismes logiciels pour faciliter les interactions avec les systèmes en mettant en oeuvre la multimodalité dans ces différentes situations"
+    ]
+}

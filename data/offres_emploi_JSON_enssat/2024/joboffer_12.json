@@ -1,0 +1,10 @@
+{
+    "problem_family": "Mesures, simulations et traitements de signaux audio 3D - applications en IA F/H",
+    "resources": [
+        "Construction and organization of corpus of 3D audio signals and associated data.",
+        "Tackling tasks such as capture of real scenes: recordings using ambisonic or HOA microphones, camera views (2D and 360), and collection of 'ground truth' data (source acoustic localization by optical tracking and geometry environment survey).",
+        "Enrichment of the corpus through simulation of acoustic signals using reverbation algorithms on anechoic sounds.",
+        "Characterization of real acoustic sources in terms of radiation and directivity, through measurements in a reverberant room or anechoic chamber.",
+        "Familiarity with signal processing and acoustics concepts, tools, and applications related to 3D audio."
+    ]
+}

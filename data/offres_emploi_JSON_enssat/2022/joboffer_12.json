@@ -1,0 +1,13 @@
+{
+    "problem_family": "ALT - Automatisation des tests Livebox & HomeLAN F/H",
+    "resources": [
+        "Developpement logiciel (Python)",
+        "Connaissance des outils Robot framework, Jenkins",
+        "Electronique (Raspberry Pi et Arduino)",
+        "Réseaux et Télécom",
+        "Intégration/validation de solutions pour tester le service Maison connectée et les services de la Livebox",
+        "Scripting, configurations, utilisation de logiciels, intégration continue, devOps, CI/CD",
+        "Conception et développement logiciel de solutions en Python",
+        "Tests en RobotFramework et assurance de leur intégration/orchestration dans Jenkins"
+    ]
+}

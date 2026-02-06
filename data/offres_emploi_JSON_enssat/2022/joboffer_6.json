@@ -1,0 +1,22 @@
+{
+    "problem_family": "Ingénieur DevSecOps",
+    "resources": [
+        "Développement backend : création d’API, gestion d’un serveur mail, d’une base de données dans le cadre de la réalisation d’une interface compatible iOS / Android (application hybride : framework React Native et/ou Flutter);",
+        "Développement front-end (React Native);",
+        "Gestion de l’infra Cloud (Docker, Ansible, Terraform, Kubernetes);",
+        "Réalisation des tests d’intégrations et unitaires;",
+        "Mise en place d’un WAF;",
+        "Mise en place d’un SIEM couplé au reverse proxy;",
+        "Réalisation des tests fonctionnels (automatisés si possible);",
+        "Réalisation de la documentation technique;",
+        "Correction des erreurs remontées par les analyses sécurité;",
+        "Respect des bonnes pratiques en programmation sécurisée.",
+        "Architecture micro composant;",
+        "Python (framework Flask), Reactnative et/ou Flutter;",
+        "Création d’API JSON;",
+        "Connaissance de la méthode Agile;",
+        "Connaissance réseaux, mail (SMTP, IMAP, POP, VPN, LAN, WAN, firewall);",
+        "Infra (Docker), Ansible, Terraform;",
+        "DevOps, Gitlab-CI;"
+    ]
+}

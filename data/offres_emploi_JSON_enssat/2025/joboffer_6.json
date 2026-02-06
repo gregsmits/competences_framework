@@ -1,0 +1,11 @@
+{
+    "problem_family": "Ingénieur Développement Réseaux",
+    "resources": [
+        "Mise en oeuvre d'une démarche DevSecOps F/H",
+        "Analyser les Besoins: Identifier les exigences de sécurité spécifiques aux applications et les mettre en adéquation avec les recommandations d’Orange Groupe",
+        "Mettre en Place un Pipeline CI/CD (Continuous Integration / Continuous Deploiement): Configurer un pipeline intégrant des outils de sécurité.",
+        "Intégrer des outils de sécurité: Utiliser des outils pour analyser le code et détecter les vulnérabilités.",
+        "Mettre en place un dashboard pour monitorer le statut de sécurité d’un ensemble de projets",
+        "Former et Sensibiliser: Créer des documents de formation pour l'équipe de développement sur les meilleures pratiques DevSecOps."
+    ]
+}

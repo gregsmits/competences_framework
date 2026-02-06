@@ -1,0 +1,19 @@
+{
+    "problem_family": "Ingénieur par apprentissage spécialité Informatique, réseaux et télécommunications",
+    "resources": [
+        "Assurer les prestations techniques de déploiement des architectures et solutions proposées",
+        "Travailler en mode projet au sein d'équipe d'experts aux multiples compétences afin de répondre aux choix technologiques de nos clients",
+        "Réaliser l'étude technique détaillée et assurer l'intégration des matériels et/ou logiciels associés",
+        "Réaliser le design des architectures et centraliser les points techniques des différentes technologies d'un même dossier",
+        "Rédiger les documents techniques sur le projet (Documents Technique de Conception, de Tests et Recette, de Procédures de Migration, de Procédures d'Exploitation, de Comptes-Rendus d'opération etc.)",
+        "Assurer la réalisation des maquettes ou de pilotes et coordonner le déploiement des matériels sur site",
+        "Mener les opérations techniques relatives à la mise en service et/ou à la migration et du déploiement de solutions de sécurisation d'infrastructure vendues par SFR sur ses comptes en Heures Ouvrées et Non Ouvrées",
+        "Assurer le transfert de compétences vers les équipes techniques du client",
+        "Le firewalling: Fortinet, Palo Alto, Check Point, Cisco, Stormshield",
+        "Le réseau LAN/WAN/NAC : Cisco, Aruba, Huawei",
+        "La Répartition de charge : F5",
+        "Les Proxy/Reverse : McAfee, Websence, Cisco",
+        "L'Authentification forte : HID, Fortinet, Cisco",
+        "EndPoint Detection & Response : Cybereason, Trend Micro"
+    ]
+}

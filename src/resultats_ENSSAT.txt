@@ -1,0 +1,78 @@
+2022
+Pb families distribution in skills base: {'7029209d-2e00-4223-9b28-746886400bb9': 9, 'b42074a0-da05-4d66-9e41-09bff6966d23': 2, 'be5a4432-69f6-4053-ad98-cf646c14cd63': 1}
+2023
+Pb families distribution in skills base: {'be5a4432-69f6-4053-ad98-cf646c14cd63': 3, '7029209d-2e00-4223-9b28-746886400bb9': 8, 'b42074a0-da05-4d66-9e41-09bff6966d23': 3}
+2024
+Pb families distribution in skills base: {'7029209d-2e00-4223-9b28-746886400bb9': 9, 'e02b0cb0-4312-4173-8483-223f6634da0e': 2, 'b42074a0-da05-4d66-9e41-09bff6966d23': 3, 'be5a4432-69f6-4053-ad98-cf646c14cd63': 3}
+2025
+Pb families distribution in skills base: {'7029209d-2e00-4223-9b28-746886400bb9': 8, 'b42074a0-da05-4d66-9e41-09bff6966d23': 8, 'be5a4432-69f6-4053-ad98-cf646c14cd63': 3, 'e02b0cb0-4312-4173-8483-223f6634da0e': 3, 'db82f761-5900-4a9f-ac60-00126e00871a': 1}
+
+
+TOTAL
+Pb families distribution in skills base: {'M1804': 34, 'b42074a0-da05-4d66-9e41-09bff6966d23': 16, 'M1805': 10, 'M1802': 5, 'M1806': 1}
+
+
+
+
+Comparing ranked resources between ROME skills base and Job offers skills base for directory data/offres_emploi_JSON_enssat/2022:
+	- Number of resources in common: 41 out of 182 for ROME and 48 for Job offers.
+	- Spearman correlation: 0.9998626838946961
+	- Main differences :
+		-Resource ID: Réseaux informatiques et télécoms, Degree difference (ROME - Job offers): 0.5833333333333333
+		-Resource ID: Systèmes d'exploitation informatique, Degree difference (ROME - Job offers): 0.4166666666666667
+		-Resource ID: Architecture réseau, Degree difference (ROME - Job offers): 0.4166666666666667
+		-Resource ID: Rédiger des documents d'ingénierie (rédaction des spécifications fonctionnelles et livrables techniques des solutions), Degree difference (ROME - Job offers): -0.33333333333333337
+		-Resource ID: Faire preuve de créativité, d'inventivité, Degree difference (ROME - Job offers): 0.25
+		-Resource ID: Concevoir une application web, Degree difference (ROME - Job offers): 0.16666666666666669
+		-Resource ID: Piloter les fonctionnalités des équipements et systèmes de sécurité informatique, Degree difference (ROME - Job offers): 0.16666666666666669
+		-Resource ID: Analyser les besoins fonctionnels des utilisateurs, Degree difference (ROME - Job offers): 0.16666666666666669
+		-Resource ID: Réaliser des études d'urbanisme des systèmes d'information de l'entreprise, Degree difference (ROME - Job offers): 0.16666666666666669
+		-Resource ID: Conception d'interfaces utilisateur (UI), Degree difference (ROME - Job offers): 0.16666666666666669
+
+
+Comparing ranked resources between ROME skills base and Job offers skills base for directory data/offres_emploi_JSON_enssat/2023:
+	- Number of resources in common: 40 out of 182 for ROME and 48 for Job offers.
+	- Spearman correlation: 0.9998597656698702
+	- Main differences :
+		-Resource ID: Systèmes d'exploitation informatique, Degree difference (ROME - Job offers): 0.4285714285714286
+		-Resource ID: Faire preuve de rigueur et de précision, Degree difference (ROME - Job offers): 0.4285714285714286
+		-Resource ID: Produits multimédias, Degree difference (ROME - Job offers): 0.4285714285714286
+		-Resource ID: Faire preuve de créativité, d'inventivité, Degree difference (ROME - Job offers): 0.2857142857142857
+		-Resource ID: Modélisation et simulation, Degree difference (ROME - Job offers): 0.17857142857142858
+		-Resource ID: Droit du numérique, Degree difference (ROME - Job offers): 0.17857142857142858
+		-Resource ID: Communiquer efficacement avec l'équipe et les clients, Degree difference (ROME - Job offers): 0.17857142857142858
+		-Resource ID: Analyser les besoins des utilisateurs pour la conception de systèmes, Degree difference (ROME - Job offers): 0.17857142857142858
+		-Resource ID: Analyser les besoins fonctionnels des utilisateurs, Degree difference (ROME - Job offers): 0.17857142857142858
+		-Resource ID: Comparer des solutions, produits ou matériels, Degree difference (ROME - Job offers): 0.17857142857142858
+
+
+Comparing ranked resources between ROME skills base and Job offers skills base for directory data/offres_emploi_JSON_enssat/2024:
+	- Number of resources in common: 62 out of 182 for ROME and 72 for Job offers.
+	- Spearman correlation: 0.9999191389623943
+	- Main differences :
+		-Resource ID: Concevoir et gérer un projet, Degree difference (ROME - Job offers): 0.6911764705882352
+		-Resource ID: Intelligence artificielle, Degree difference (ROME - Job offers): 0.6323529411764705
+		-Resource ID: Systèmes d'exploitation informatique, Degree difference (ROME - Job offers): 0.4411764705882353
+		-Resource ID: Règles de sécurité Informatique et Télécoms, Degree difference (ROME - Job offers): 0.4411764705882353
+		-Resource ID: Produits multimédias, Degree difference (ROME - Job offers): 0.4411764705882353
+		-Resource ID: Avoir l'esprit d'équipe, Degree difference (ROME - Job offers): 0.32352941176470584
+		-Resource ID: Faire preuve de créativité, d'inventivité, Degree difference (ROME - Job offers): 0.2647058823529412
+		-Resource ID: Anglais technique, Degree difference (ROME - Job offers): 0.20588235294117646
+		-Resource ID: Définir la stratégie des systèmes d'informations, Degree difference (ROME - Job offers): 0.19117647058823528
+		-Resource ID: Evaluer, prévenir, et gérer les risques et la sécurité, Degree difference (ROME - Job offers): 0.19117647058823528
+
+
+Comparing ranked resources between ROME skills base and Job offers skills base for directory data/offres_emploi_JSON_enssat/2025:
+	- Number of resources in common: 50 out of 182 for ROME and 58 for Job offers.
+	- Spearman correlation: 0.9998700973773252
+	- Main differences :
+		-Resource ID: Intelligence artificielle, Degree difference (ROME - Job offers): 0.7065217391304347
+		-Resource ID: Etre force de proposition, Degree difference (ROME - Job offers): 0.4565217391304348
+		-Resource ID: Produits multimédias, Degree difference (ROME - Job offers): 0.4565217391304348
+		-Resource ID: Avoir l'esprit d'équipe, Degree difference (ROME - Job offers): 0.3695652173913043
+		-Resource ID: Anglais technique, Degree difference (ROME - Job offers): 0.32608695652173914
+		-Resource ID: Faire preuve de créativité, d'inventivité, Degree difference (ROME - Job offers): 0.28260869565217395
+		-Resource ID: Rédiger des documents d'ingénierie (rédaction des spécifications fonctionnelles et livrables techniques des solutions), Degree difference (ROME - Job offers): -0.2282608695652174
+		-Resource ID: Gestion des bases de données, Degree difference (ROME - Job offers): 0.20652173913043478
+		-Resource ID: Droit du numérique, Degree difference (ROME - Job offers): 0.20652173913043478
+		-Resource ID: Mener un processus de test en cybersécurité, Degree difference (ROME - Job offers): 0.20652173913043478

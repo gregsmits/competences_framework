@@ -1,0 +1,10 @@
+{
+    "problem_family": "Développeur Fullstack pour le B2B F/H",
+    "resources": [
+        "Développement Fullstack: Participer activement à la conception et au développement de solutions en utilisant des technologies variées (Java SpringBoot, Quarkus, Angular, TypeScript, Javascript, etc..)",
+        "Travail en équipe agile: Collaborer avec des équipes pluri-disciplinaires (UX/UI, architectes, développeurs, intégrateurs) pour définir, concevoir et livrer de nouvelles fonctionnalités.",
+        "Collaboration avec les équipes DevOps: Vous serez impliqué dans le déploiement des applications et services sur des plateformes cloud (CloudFoundry, Kubernetes, Open shift), en garantissant la performance et la scalabilité des solutions et en prenant en charge les processus CI/CD",
+        "Amélioration continue: Vous participerez à des sessions de revue de code et à des séances de rétrospective pour contribuer à l'amélioration des pratiques et des processus de développement.",
+        "Veille technologique: Vous serez encouragé à suivre les dernières tendances et innovations technologiques, en particulier dans le domaine du développement agile, du cloud et du workplace."
+    ]
+}

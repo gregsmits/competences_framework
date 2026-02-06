@@ -1,0 +1,17 @@
+{
+    "problem_family": "Ingénieur Cybersécurité",
+    "resources": [
+        "Participer à l’identification des menaces et des failles de sécurité.",
+        "Réaliser des audits de sécurité (techniques et organisationnels).",
+        "Contribuer à l’évaluation des risques (EBIOS, ISO 27005…).",
+        "Aider à la configuration et au déploiement d’outils de sécurité (pare-feu, antivirus, SIEM, IDS/IPS…).",
+        "Participer à la sécurisation des systèmes, réseaux et applications.",
+        "Contribuer à la gestion des identités et des accès (IAM).",
+        "Suivre les alertes de sécurité et analyser les journaux d’événements.",
+        "Participer à la détection et à la réponse aux incidents de sécurité.",
+        "Contribuer à la rédaction de rapports d’incidents et de post-mortem.",
+        "Participer à la sensibilisation des utilisateurs aux bonnes pratiques de cybersécurité.",
+        "Contribuer à la mise en conformité avec les normes et réglementations (RGPD, ISO 27001, NIS2…).",
+        "Suivre l’actualité des menaces, vulnérabilités et solutions de sécurité."
+    ]
+}

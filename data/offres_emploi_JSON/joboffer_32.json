@@ -1,0 +1,13 @@
+{
+    "problem_family": "Ingénieur systèmes, réseaux et cybersécurité",
+    "resources": [
+        "Etudier, prototyper les différentes infrastructures permettant de répondre au cahier des charges fonctionnel",
+        "Participer à la rédaction d'un cahier des charges techniques",
+        "Proposer de nouvelles solutions logicielles et matérielles permettant d'accueillir les nouvelles applications développées au sein des groupes informatiques du GANIL (GTA/G2CA)",
+        "Rédiger les documentations techniques pour la mise en place et la maintenance du module",
+        "Administer les équipements matériels et logiciels de sécurité du système d'Information en respectant les procédures et les règles mises en place par le G2I.",
+        "Treater les incidents ou demandes au support de niveau 2 et 3",
+        "Administer les services d'authentification, DNS, DHCP, etc.",
+        "Assurer les suivis documentaires des actions réalisées sur l'interface de gestion documentaire du GANIL"
+    ]
+}

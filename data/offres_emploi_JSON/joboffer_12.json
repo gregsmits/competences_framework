@@ -1,0 +1,11 @@
+{
+    "problem_family": "Ingénieur par apprentissage spécialité Informatique, réseaux et télécommunications",
+    "resources": [
+        "Participation à la définition de la roadmap du plan d'automatisation (tests, environnement de test, outils)",
+        "Développement de librairies de tests sur les interfaces du système PMR en langage Python",
+        "Définition des tests à automatiser en liaison avec les experts de l'équipe de test système",
+        "Ecriture des scripts de tests à l'aide de l'outil Robot Framework",
+        "Exécution et mise au point des tests automatisés sur un réseau plateforme TETRAPOL ou AGNET",
+        "Ecriture de la documentation"
+    ]
+}

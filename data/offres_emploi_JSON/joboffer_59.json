@@ -1,0 +1,14 @@
+{
+    "problem_family": "Responsable Technique Réseau",
+    "resources": [
+        "Connaissance des réseaux LAN/WAN",
+        "Maîtrise des protocoles de communication (TCP/IP, etc.)",
+        "Expérience avec des outils d'automatisation (ex. : ANSIBLE/GitLab)",
+        "Compétences en sécurité des réseaux",
+        "Compétences Cisco, Juniper et Fortinet fortement appréciées",
+        "Connaissance de l'architecture des Réseaux LAN",
+        "Maitrise des opérations de modifications sur les équipements du réseau LAN",
+        "Analyse des cas d'exploitations pour tester et valider les actions d'automatisation",
+        "Leadership technique dans la résolution des incidents complexes"
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "problem_family": "Alternance - Ingénieur DevSecOps F/H",
+    "resources": [
+        "Déployer des fonctions réseau et des services en utilisant Kubernetes en suivant la méthodologie GitOps",
+        "Optimiser et sécuriser des ressources existantes déplacées",
+        "Développer des outils d'automatisation à intégrer dans une chaîne d'intégration continue",
+        "Développer et déployer des opérateurs Kubernetes pour faciliter la gestion de ressources kubernetes",
+        "Mise en place et utilisation de modèles d'IA pour optimiser les déploiements",
+        "Contribution à des projets open-source",
+        "Maîtrise de Git pour la gestion du code source",
+        "Connaissance de Linux",
+        "Intérêt pour Kubernetes et la gestion des déploiements",
+        "Connaisances en développement logiciel, notamment en Python et/ou Go",
+        "Familiarité avec les concepts d'intégration continue",
+        "Curiosité et intérêt pour les nouvelles technologies et les sujets liés à la sécurité"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "problem_family": "Chargé(e) d'analyse et fusion de données d’information de situation maritime pour la détection de comportements et navires d’intérêt",
+    "resources": [
+        "Valoriser les données d’information maritime de suivi de navire issues de notre infrastructure BigData et de détection de navires issus de notre centre d’observation VIGISAT (imagerie satellite).",
+        "Participer à la définition de nouvelles couches d’information à valeur ajoutée mettant en œuvre la fusion de différentes sources de données.",
+        "Développer des prototypes de génération de ces nouvelles données, évaluer et démontrer les performances atteignables auprès des équipes projets, et de nos clients.",
+        "Contribuer à l’industrialisation de la génération de ces nouvelles données dans nos centres de traitement et au monitoring des performances.",
+        "Aise relationnelle, flexibilité, autonomie et esprit d’analyse sont attendus."
+    ]
+}

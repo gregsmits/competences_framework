@@ -1,0 +1,11 @@
+{
+    "problem_family": "Développeur logiciel chatbots",
+    "resources": [
+        "Participer à la réalisation de la solution logicielle de chatbots Smartly sur l'ensemble de son cycle de vie (conception, développement, qualification, soutien, maintenance, exploitabilité...).",
+        "Vous détaillez la conception à partir de ‘user stories' écrites par (avec) le product owner et le scrum master, ainsi que de spécifications fonctionnelles.",
+        "Vous automatisez et industrialisez les opérations régulières : build, test, audit.",
+        "Vous assurez le support technique, la maintenance corrective et adaptative des services développés.",
+        "Vous contribuez à la mise en place et à l'amélioration de la qualité des codes, de la documentation et des processus de développement, en collaboration avec vos co-équipiers, la direction thématique, les différents métiers du marketing, du design, de la qualification / intégration / validation et les exploitants du produit.",
+        "Vous participez également à divers travaux autour du bot et de ses données : travaux de data scientist et utilisation de la suite ELK, déploiement en environnement cloud avec OpenShift et contributions sur la chaîne d'intégration."
+    ]
+}

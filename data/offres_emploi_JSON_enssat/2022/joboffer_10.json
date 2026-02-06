@@ -1,0 +1,16 @@
+{
+    "problem_family": "Apprenti(e) – Concepteur/Développeur Full Stack CARGO Operations E messagingLayer H/F",
+    "resources": [
+        "Conduct analysis, formulate recommendations, propose solutions and develop proof of concept",
+        "Identify actions to record and content (date, user, action, value...)",
+        "Propose a backup in database and monitoring tools (elastic search / kibana / kafka)",
+        "Develop an interface for display and research on these information",
+        "Suggest statistical graphs to highlight the number of modifications, which table/data is most modified, by whom...",
+        "Identify recurring messages and exploitables",
+        "Save them in COMO",
+        "Propose a representation of these data to be able to use it",
+        "Set up the solution",
+        "Stop mail alert",
+        "Angular 12, Java 17, Spring 5, Oracle, Elasticsearch + Kibana + Kafka"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "problem_family": "Ingénieur Système et réseau",
+    "resources": [
+        "Installat ion et paramétrage de serveurs",
+        "Configuration et déploiement automatisé",
+        "Gestion d'un pare feu",
+        "Prise en charge de petits projets",
+        "Gestio n d'une solution de déploiement de systèmes d'exploitation serveur",
+        "Ecriture de code pour le déploiement de nouvelles configurations serveur",
+        "Traitement des incidents de production du quotidien",
+        "Résolution d'une problématique, analyse, choix d'une réponse technique, mise en place de la solution retenue",
+        "Organisation de la formation des utilisateurs et gestion du projet (organisation, ressources, finances, délais, qualité)",
+        "Cybersécurité, devops, infrastructure as code, virtualisation, docker, SAN, réseau, télédistribution, cloud, IA, puppet, data, elastic"
+    ]
+}

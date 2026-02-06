@@ -1,0 +1,16 @@
+{
+    "problem_family": "Ingénieur Data - F/H",
+    "resources": [
+        "Créer des chaines de traitement automatisées (Nettoyage, mise en forme, stockage en BDD,...)",
+        "Participer au déploiement d'environnements de développement Data Engineering et DataOps",
+        "Capitaliser des données radars d'intérêt dans le Datalake en support du Data Steward",
+        "Développer des applications Web utilisées dans ce cadre",
+        "Administration système Linux (RHEL, Debian)",
+        "Développement WEB",
+        "Un solide bagage en développement BigData est demandé",
+        "Méthode d'intégration basée sur des pipelines CI/CD avec GitLab",
+        "Package et déploiement de la solution avec Docker/Podman dans un environnement Kubernetes",
+        "Logiciels de data ingénierie : Apache Nifi, Apache Spark",
+        "Bases de données NoSQL : S3 Object Storage, ElasticSearch, Apache Kafka"
+    ]
+}

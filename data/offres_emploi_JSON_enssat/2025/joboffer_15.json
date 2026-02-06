@@ -1,0 +1,17 @@
+{
+    "problem_family": "Développeur Back-End Node.js / API – Spécialiste des architectures microservices",
+    "resources": [
+        "Conception et développement de microservices complets en Node.js",
+        "Participation à la mise en place d’outils d’intégration continue",
+        "Collaboration étroite avec les équipes produit, front-end et QA",
+        "Implémentation de tests automatisés (unitaires)",
+        "Analyse de performances et participation à la refactorisation de code legacy",
+        "Déploiement dans des environnements cloud (GCP)",
+        "Excellente maîtrise de JavaScript / TypeScript",
+        "Bonne connaissance des frameworks back-end",
+        "Pratique des ORM comme Prisma ou TypeORM",
+        "Bonne compréhension des principes de la programmation orientée objet et fonctionnelle",
+        "Utilisation avancée de Git et des workflows collaboratifs",
+        "Sensibilité à la qualité du code, à la performance et à la sécurité"
+    ]
+}

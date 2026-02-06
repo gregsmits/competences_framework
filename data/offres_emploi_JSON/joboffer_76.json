@@ -1,0 +1,11 @@
+{
+    "problem_family": "Ingénieur par apprentissage spécialité Informatique, réseaux et télécommunications",
+    "resources": [
+        "Développement logiciel (gestion d'évolution de programme et définition d'architecture de programme si la formation est au niveau des attentes) principalement en C++",
+        "Assistance et troubleshooting réseau informatique",
+        "Mots clés du terrain d'apprentissage : Protocole de communication / Application industrielle C++",
+        "Nettoyage des codes et rédaction de documentations (IT + Process)",
+        "Standardisation de l'ensemble des communications des solutions digitales ainsi que la rédaction des documentations associées (IT)",
+        "Conception et développement d'une interface réseau en C++ (ou autres langages haut niveau) entre le niv1 (automates) et le niv2 (contrôle de procédés)"
+    ]
+}

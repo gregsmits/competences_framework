@@ -1,0 +1,20 @@
+{
+    "problem_family": "Ingénieur Réseaux",
+    "resources": [
+        "Participer à l'administration quotidienne des systèmes et des réseaux, des infrastructures administrative et industrielle. Incluant la gestion des routeurs, des bornes Wifi, etc.. Garantir l'implémentation de configurations sécurisées",
+        "Veiller au bon contrôle des trafics réseaux entrants et sortants de l'ensemble des systèmes (composants de sécurité pare-feux, proxy, VPN et autres dispositifs de sécurité réseau)",
+        "Participer à la surveillance des systèmes et superviser les vulnérabilités (utilisation d'outil comme Cyberwatch, etc.)",
+        "Implémenter et gérer les solutions d'authentification forte (multi-factor MFA) et de SSO",
+        "Paramétrer et maintenir les outils de détection de non-conformité et d'incidents. Contribuer à l'analyse des alertes et journaux d'événements. Prévention et réponse aux incidents.",
+        "Participer à l'amélioration continue de la sécurité des environnements Cloud (GCP) et environnements de développements (GitHub)",
+        "Gérer et veiller à la bonne sécurité des postes de travail, téléphones et tablette (utilisation Intune)",
+        "Assurer le suivi des tickets Sécurité, Infrastructure (Incident/Demande via l'outil de ticketing JIRA)",
+        "Participer et réaliser les revues d'accès",
+        "Faire le suivi des chantiers Sécurité (propres à IZIVIA ou en collaboration au Groupe EDF - Pôle CST) et aider à leur implémentation",
+        "Contribuer à la documentation des procédures, politiques de sécurité (Confluence)",
+        "Aider à l'organisation et la réalisation des audits internes/externes de sécurité (tests d'intrusion, audit MS Entra, audit de codes, audit ISO 27001)",
+        "Veiller aux bons respects des politiques de sécurité",
+        "Participer à la sensibilisation Cybersécurité des utilisateurs",
+        "Réaliser la veille technologique en se tenant informé des nouvelles menaces et technologies en matière de sécurité des systèmes d'information"
+    ]
+}

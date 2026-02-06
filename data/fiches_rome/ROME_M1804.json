@@ -1,0 +1,323 @@
+{
+    "source":"France Travail",
+    "label":"M1804 INGÉNIEUR / INGÉNIEURE TÉLÉCOMS",
+    "problems_family" : [
+        "Architecte réseaux de télécoms",
+        "Ingénieur / Ingénieure réseaux télécoms",
+        "Chargé / Chargée d'opération réseaux de télécoms",
+        "Ingénieur / Ingénieure télécommunication",
+        "Chargé / Chargée de planification réseaux de télécoms",
+        "Ingénieur / Ingénieure validation réseaux de télécoms",
+        "Chef / Cheffe de projet télécoms",
+        "Marketeur / Marketeuse réseaux de télécoms",
+        "Concepteur réalisateur / Conceptrice réalisatrice de réseau télécoms",
+        "Négociateur / Négociatrice de sites télécoms en fibre optique",
+        "Consultant / Consultante télécoms",
+        "Négociateur / Négociatrice de sites télécoms en téléphonie mobile",
+        "Ingénieur / Ingénieure déploiement télécoms",
+        "Network planner",
+        "Ingénieur / Ingénieure en architecture télécoms",
+        "Planificateur / Planificatrice réseaux de télécoms",
+        "Ingénieur / Ingénieure études et support télécoms",
+        "Programmeur / Programmeuse réseaux de télécoms",
+        "Ingénieur / Ingénieure radio",
+        "Technicien / Technicienne ingénierie réseaux de télécoms"
+    ],
+    "resources": [
+        {
+            "resource": "Développer un logiciel, un système d'informations, une application",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Construire un plan de développement réseau",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Concevoir, améliorer un équipement, une machine, une installation",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Recueillir et analyser les besoins client",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Concevoir et gérer un projet",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Procéder à des tests, expérimentations",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Tester un logiciel, un système d'informations, une application",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Etablir le plan d'implémentation",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Rédiger des dossiers d'architecture réseau",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Concevoir le design, les spécifications ou configurations d'un réseau télécoms",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Accéder directement en écriture sur des machines et serveurs pour configurer",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Modéliser et anticiper les usages réseaux",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Renseigner des bases de données de l'opérateur (saisie manuelle d'informations) / Garantir la qualité des informations contenues dans les bases",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Rédiger le document d'ingénierie générale pour chaque élément de réseau à implémenter (fonctionnalités, protocoles utilisés, règles de dimensionnement et de mise en oeuvre)",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Rédiger les dossiers technico-économiques de déploiement et de réaménagement des équipements de réseau et PFS (plateformes de services), formaliser les besoins de réaménagements",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Rédiger des spécifications techniques des terminaux en prenant en compte les dimensions techniques et financières ainsi que la stratégie industrielle de l'opérateur",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Rédiger des documents d'ingénierie (rédaction des spécifications fonctionnelles et livrables techniques des solutions)",
+            "type": "Savoir-faire",
+            "category": "Communication, Création, Innovation, Nouvelles technologies"
+        },
+        {
+            "resource": "Déterminer les implantations de relais, pylônes et câbles",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Concevoir et décliner la mise en oeuvre de la stratégie technique de l'opérateur télécoms",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Etudier des terrains potentiels",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Raccorder, gérer un réseau technique",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Garantir le bon fonctionnement, la disponibilité et la performance des éléments de réseaux ou logiciels placés sous sa responsabilité",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Concevoir et maintenir un système de cybersécurité",
+            "type": "Savoir-faire",
+            "category": "Production, Construction, Qualité, Logistique"
+        },
+        {
+            "resource": "Apporter une assistance technique aux équipes",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Comparer des solutions, produits ou matériels",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Réaliser une veille de marché, une veille concurrentielle",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Suivre et négocier l'implantation d'infrastructures de réseaux télécoms (pylônes, antennes, câbles, ...)",
+            "type": "Savoir-faire",
+            "category": "Développement économique"
+        },
+        {
+            "resource": "Identifier et sélectionner des fournisseurs, sous-traitants, prestataires",
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire"
+        },
+        {
+            "resource": "Lancer et gérer un appel d'offres",
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire"
+        },
+        {
+            "resource": "Contrôler la réalisation et les coûts d'une prestation",
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire"
+        },
+        {
+            "resource": "Maitriser les éléments du Business Plan et de l'analyse de la valeur",
+            "type": "Savoir-faire",
+            "category": "Pilotage, Gestion, Cadre réglementaire"
+        },
+        {
+            "resource": "Animer, coordonner une équipe",
+            "type": "Savoir-faire",
+            "category": "Management, Social, Soins"
+        },
+        {
+            "resource": "Travailler en réseau et coopérer avec des profils métiers diversifiés",
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences"
+        },
+        {
+            "resource": "Communiquer auprès de ses interlocuteurs internes et externes",
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences"
+        },
+        {
+            "resource": "Documenter les procédures techniques et configurations",
+            "type": "Savoir-faire",
+            "category": "Coopération, Organisation et Développement de ses compétences"
+        },
+        {
+            "resource": "Avoir l'esprit d'équipe",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Faire preuve de leadership",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Faire preuve d'autonomie",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Etre ouvert aux changements",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Faire preuve de créativité, d'inventivité",
+            "type": "Savoir-être",
+            "category": "Attitudes professionnelles"
+        },
+        {
+            "resource": "Gestion budgétaire",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Technologie des fibres optiques",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Technologies analogiques",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Protocoles de communication réseau",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Technologies radiofréquences",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Architecture réseau",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Modélisation et simulation",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Plateformes de service",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Réseaux de localisation (GPS, Galileo)",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Réseaux de télécommunication",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Anglais technique",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Réseaux informatiques et télécoms",
+            "type": "Savoirs",
+            "category": "Domaines d'expertise"
+        },
+        {
+            "resource": "Procédures d'appels d'offres",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Protocoles et normes télécoms",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Protocoles de communication (TCP/IP)",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Règles de sécurité Informatique et Télécoms",
+            "type": "Savoirs",
+            "category": "Normes et procédés"
+        },
+        {
+            "resource": "Utilisation d'outils de supervision",
+            "type": "Savoirs",
+            "category": "Produits, outils et matières"
+        },
+        {
+            "resource": "Techniques commerciales",
+            "type": "Savoirs",
+            "category": "Techniques professionnelles"
+        },
+        {
+            "resource": "Techniques de multiplexage",
+            "type": "Savoirs",
+            "category": "Techniques professionnelles"
+        }
+    ]
+}
