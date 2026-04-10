@@ -1,93 +1,247 @@
-# compcomp
+# Competences Framework Experiments
 
+This repository contains scripts and utilities to compare competency resources across three sources:
 
+- RNCP training fiche(s)
+- ROME fiche(s)
+- Job offers extracted as JSON
 
-## Getting started
+The workflow is based on:
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+1. Building FAISS indexes from ROME references (problem families + resources)
+2. Aligning each skills base against these indexes
+3. Computing comparative indicators (Spearman-like correlation, raw deltas, coverage/entropy metrics)
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+## Project Structure
 
-## Add your files
+Main layout:
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/topics/git/add_files/#add-files-to-a-git-repository) or push an existing Git repository with the following command:
-
+```text
+.
+├── README.md
+├── requirements.txt
+├── data/
+│   ├── fiches_rncp/
+│   ├── fiches_rome/
+│   ├── offres_emploi_JSON/
+│   └── offres_emploi_JSON_enssat/
+├── RNCP38637_problems_family.idx/
+├── RNCP38637_resources.idx/
+└── src/
+		├── createindexes.py
+		├── run_experiments.py
+		├── run_experiments_ENSSAT.py
+		├── resultats_ENSSAT.txt
+		├── skill_def/
+		│   ├── skill_base.py
+		│   └── rom_skill.py
+		└── utils/
+				├── comparators.py
+				├── dataextractorllm.py
+				├── indexer.py
+				└── skill_loader.py
 ```
-cd existing_repo
-git remote add origin https://gitlab.imt-atlantique.fr/research/compcomp.git
-git branch -M main
-git push -uf origin main
+
+## Core Scripts
+
+### `src/createindexes.py`
+
+Builds (or reloads) the FAISS indexes used by experiments:
+
+- `<RNCPCODE>_problems_family.idx`
+- `<RNCPCODE>_resources.idx`
+
+Current default in code:
+
+- `RNCPCODE = RNCP38637`
+- ROME files from `data/fiches_rome/`
+
+### `src/run_experiments.py`
+
+Default IMT Atlantique FIP experiment (`RNCP38637`):
+
+- Loads RNCP fiche `data/fiches_rncp/RNCP38637.json`
+- Loads associated ROME fiches
+- Loads job offers from `data/offres_emploi_JSON/`
+- Loads FAISS indexes (`RNCP38637_*`)
+- Aligns each base with the ROME reference space
+
+Important: this script currently contains `sys.exit(0)` right after alignment, so later analysis blocks in the file are not executed unless you remove/comment that line.
+
+### `src/run_experiments_ENSSAT.py`
+
+ENSSAT-oriented experiment variant:
+
+- Uses `RNCPCODE = RNCP35781` for metadata context
+- Loads the same ROME reference indexes from `RNCP38637_*`
+- Compares ROME vs job offers split by year directories:
+	- `data/offres_emploi_JSON_enssat/2022`
+	- `data/offres_emploi_JSON_enssat/2023`
+	- `data/offres_emploi_JSON_enssat/2024`
+	- `data/offres_emploi_JSON_enssat/2025`
+- Runs additional contrastive indicators (Jaccard, coverage, weighted coverage, Gini, entropy)
+
+Note: RNCP loading is currently commented out in this script.
+
+## Internal Code Architecture
+
+### Domain model (`src/skill_def/skill_base.py`)
+
+- `FamilyOfProblems`: problem-family label/description + aligned index id
+- `Resource`: resource text/type/category + aligned index id + computed degree
+- `Skill`: one competence item loaded from JSON
+- `SkillsBase`: collection of `Skill` objects with methods to:
+	- align against indexes
+	- infer necessary/sufficient resources per problem family
+	- assign per-resource relevance degrees
+
+### Data loading (`src/utils/skill_loader.py`)
+
+- `load_from_json`: load RNCP/ROME-like skill JSON
+- `load_from_job_offer`: load job-offer JSON into `Skill`
+- `load_base_from_directory`: bulk-load all JSON job offers in a directory
+
+### Indexing (`src/utils/indexer.py`)
+
+- Wrapper around `langchain_community.vectorstores.FAISS`
+- Uses `OllamaEmbeddings` (`base_url=http://localhost:11434`)
+- Supports index load, save, query, and document retrieval by id
+
+### Comparators (`src/utils/comparators.py`)
+
+- `spearman_correlation`
+- `raw_differences`
+
+## Prerequisites
+
+## 1) Python
+
+Use Python 3.10+ (recommended).
+
+## 2) Dependencies
+
+Install from `requirements.txt`:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
-## Integrate with your tools
+## 3) Local Ollama service
 
-- [ ] [Set up project integrations](https://gitlab.imt-atlantique.fr/research/compcomp/-/settings/integrations)
+The indexer uses `OllamaEmbeddings` and expects a local Ollama server at:
 
-## Collaborate with your team
+- `http://localhost:11434`
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/user/project/merge_requests/auto_merge/)
+Start Ollama before running scripts.
 
-## Test and Deploy
+## 4) Data files
 
-Use the built-in continuous integration in GitLab.
+Expected directories are already present under `data/`.
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+For `run_experiments_ENSSAT.py`, check that any files referenced in the script exist in your local dataset (for example RNCP files if you uncomment related lines).
 
-***
+## How To Run
 
-# Editing this README
+All commands below are executed from the repository root.
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
+### Step A: Build indexes (first run only, or after data/model changes)
 
-## Suggestions for a good README
+```bash
+python src/createindexes.py
+```
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+Expected result:
 
-## Name
-Choose a self-explaining name for your project.
+- `RNCP38637_problems_family.idx/`
+- `RNCP38637_resources.idx/`
 
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+### Step B1: Run standard experiment (`run_experiments.py`)
 
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+```bash
+python src/run_experiments.py
+```
 
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
+What it currently executes:
 
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
+- Loads RNCP, ROME, and job-offer bases
+- Loads both indexes
+- Aligns ROME and job-offer bases with indexes
+- Stops at `sys.exit(0)`
 
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
+If you want the full metrics section in that script, remove/comment `sys.exit(0)` and rerun.
 
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
+### Step B2: Run ENSSAT experiment (`run_experiments_ENSSAT.py`)
 
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
+```bash
+python src/run_experiments_ENSSAT.py
+```
 
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
+What it executes:
 
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
+- Loads ROME base and yearly ENSSAT job-offer bases
+- Aligns each base
+- Computes pairwise comparison outputs per year directory
+- Prints additional indicators
 
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
+If you want to keep a log file:
 
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+```bash
+python src/run_experiments_ENSSAT.py | tee src/resultats_ENSSAT.txt
+```
 
-## License
-For open source projects, say how it is licensed.
+## Typical Workflow
 
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+1. Update or replace JSON datasets under `data/`
+2. Rebuild indexes with `src/createindexes.py` if ROME reference data changed
+3. Run one or both experiment scripts
+4. Inspect terminal outputs (or saved log files)
+
+## Configuration Points You May Edit
+
+In each experiment script, you can adapt:
+
+- `university_program`
+- `RNCPCODE`
+- `rncp_file`
+- `rome_files`
+- `job_offers_directory` or `job_offers_directories`
+- index names (`pbs_indexer_name`, `resources_indexer_name`)
+
+These are hard-coded at the top of each script for reproducible experiment settings.
+
+## Troubleshooting
+
+### Error: index does not exist
+
+Message like:
+
+```text
+Index RNCP38637_problems_family.idx does not exist. Create it first using the createindexes.py script
+```
+
+Run:
+
+```bash
+python src/createindexes.py
+```
+
+### Error connecting to Ollama
+
+If embedding calls fail, verify:
+
+- Ollama is running locally
+- Port `11434` is reachable
+- The embedding/model used by `src/utils/indexer.py` is available
+
+### Import issues
+
+Run scripts as `python src/<script>.py` from repository root so relative imports and data paths resolve correctly.
+
+## Reproducibility Notes
+
+- The FAISS index contents depend on embedding model behavior.
+- If you change embedding model/version in `src/utils/indexer.py`, rebuild indexes before comparing new runs to old outputs.
+- Keep data snapshots fixed per experiment batch for consistent results.
